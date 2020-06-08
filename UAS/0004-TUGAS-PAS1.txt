@@ -9,27 +9,27 @@ $ eval $PSTAMP
 $ PS1="\$(eval \$PSTAMP)"
 200608-192929-783e-UAS/> echo -e $CEKSAYA
 nvanonim ZCZCSCRIPTSTART 200603-214315 nvanonim 
- nvanonim nvanonim 200603-214348-e7d6-alghifari.taufan/ 200603-214348 SEQOK SUMOK e7d606f8 
- nvanonim nvanonim 200603-214354-9031-alghifari.taufan/ 200603-214354 SEQOK SUMOK 90315295 
- nvanonim nvanonim 200603-214356-3d4b-alghifari.taufan/ 200603-214356 SEQOK SUMOK 3d4bde12 
- nvanonim nvanonim 200603-214400-4c7d-alghifari.taufan/ 200603-214400 SEQOK SUMOK 4c7dcee6 
- nvanonim ZCZCSCRIPTSTOP 200603-214417 SEQOK 
+nvanonim nvanonim 200603-214348-e7d6-alghifari.taufan/ 200603-214348 SEQOK SUMOK e7d606f8 
+nvanonim nvanonim 200603-214354-9031-alghifari.taufan/ 200603-214354 SEQOK SUMOK 90315295 
+nvanonim nvanonim 200603-214356-3d4b-alghifari.taufan/ 200603-214356 SEQOK SUMOK 3d4bde12 
+nvanonim nvanonim 200603-214400-4c7d-alghifari.taufan/ 200603-214400 SEQOK SUMOK 4c7dcee6 
+nvanonim ZCZCSCRIPTSTOP 200603-214417 SEQOK 
 
 200608-192934-ec23-UAS/> echo -e $CEKSEBELA1
 nvanonim ZCZCSCRIPTSTART 200603-231621 PakDengklek 
- nvanonim PakDengklek 200603-231645-9286-alvin.hariman/ 200603-231645 SEQOK SUMOK 928665a8 
- nvanonim PakDengklek 200603-231652-85b3-alvin.hariman/ 200603-231652 SEQOK SUMOK 85b389a8 
- nvanonim PakDengklek 200603-231659-219e-alvin.hariman/ 200603-231659 SEQOK SUMOK 219e16ef 
- nvanonim PakDengklek 200603-231706-30c0-alvin.hariman/ 200603-231706 SEQOK SUMOK 30c03c20 
- nvanonim ZCZCSCRIPTSTOP 200603-231713 SEQOK 
+nvanonim PakDengklek 200603-231645-9286-alvin.hariman/ 200603-231645 SEQOK SUMOK 928665a8 
+nvanonim PakDengklek 200603-231652-85b3-alvin.hariman/ 200603-231652 SEQOK SUMOK 85b389a8 
+nvanonim PakDengklek 200603-231659-219e-alvin.hariman/ 200603-231659 SEQOK SUMOK 219e16ef 
+nvanonim PakDengklek 200603-231706-30c0-alvin.hariman/ 200603-231706 SEQOK SUMOK 30c03c20 
+nvanonim ZCZCSCRIPTSTOP 200603-231713 SEQOK 
 
 200608-192938-5591-UAS/> echo -e $CEKSEBELA2
 nvanonim ZCZCSCRIPTSTART 200602-195504 phazeblaze 
- nvanonim phazeblaze 200602-195613-4fd7-timothy.regana/ 200602-195613 SEQOK SUMOK 4fd7fd94 
- nvanonim phazeblaze 200602-195624-fe52-timothy.regana/ 200602-195624 SEQOK SUMOK 4fd7fd94 
- nvanonim phazeblaze 200602-195628-d72d-timothy.regana/ 200602-195628 SEQOK SUMOK d72d72aa 
- nvanonim phazeblaze 200602-195636-7b64-timothy.regana/ 200602-195636 SEQOK SUMOK 7b647308 
- nvanonim ZCZCSCRIPTSTOP 200602-195640 SEQOK 
+nvanonim phazeblaze 200602-195613-4fd7-timothy.regana/ 200602-195613 SEQOK SUMOK 4fd7fd94 
+nvanonim phazeblaze 200602-195624-fe52-timothy.regana/ 200602-195624 SEQOK SUMOK 4fd7fd94 
+nvanonim phazeblaze 200602-195628-d72d-timothy.regana/ 200602-195628 SEQOK SUMOK d72d72aa 
+nvanonim phazeblaze 200602-195636-7b64-timothy.regana/ 200602-195636 SEQOK SUMOK 7b647308 
+nvanonim ZCZCSCRIPTSTOP 200602-195640 SEQOK 
 
 200608-192943-fc71-UAS/> exit
 exit
