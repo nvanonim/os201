@@ -21,3 +21,5 @@ sub   4096R/44170902 2020-02-13 [expires: 2021-02-12]
 
 200603-214400-4c7d-alghifari.taufan/> exit
 exit
+
+Script done on Wed 03 Jun 2020 09:44:17 PM WIB
